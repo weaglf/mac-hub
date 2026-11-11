@@ -1,0 +1,13 @@
+# Swift Package Manager / Xcode
+.build/
+.swiftpm/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# build.sh çıktısı
+build.noindex/
+build/
+
+# macOS
+.DS_Store
